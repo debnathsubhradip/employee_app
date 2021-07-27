@@ -1,0 +1,6 @@
+hostrds = ""
+rdsuser = ""
+rdspass = ""
+rdsdb = ""
+mybucket = ""
+myregion = ""
